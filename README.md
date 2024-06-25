@@ -62,3 +62,9 @@ Description:
 
 
 The script loads the Iris dataset, splits it into training and testing sets, and standardizes the features. It then initializes five different machine learning models, trains them, and makes predictions. A custom evaluation function is defined to calculate accuracy, precision, recall, F1 score, and ROC AUC for each model. The results are compiled into a DataFrame and visualized using a bar plot, allowing for easy comparison of the models' performance.
+
+
+# OUTPUTS:
+
+
+![Screenshot 2024-06-25 114912](https://github.com/tarangver/CODTECH-TASK2/assets/122903177/c51ffb50-fef9-4106-887e-4a924c57c087)
